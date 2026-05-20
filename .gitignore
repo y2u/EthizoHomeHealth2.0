@@ -1,0 +1,7 @@
+frontend/node_modules/
+frontend/dist/
+backend/vendor/
+backend/tmp/
+backend/logs/
+backend/config/app_local.php
+.DS_Store
